@@ -1,0 +1,6 @@
+@import url("components/avatars.css");
+@import url("components/buttons.css");
+
+h2 {
+    color: red;
+}
